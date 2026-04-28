@@ -1,0 +1,16 @@
+subscription-billing-system/
+├── app/
+├── bootstrap/
+├── config/
+├── database/
+├── public/
+├── resources/
+├── routes/
+├── tests/
+├── .env.example
+├── .gitignore (create this)
+├── artisan
+├── composer.json
+├── package.json
+├── webpack.mix.js
+└── README.md (create this)
